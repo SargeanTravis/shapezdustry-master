@@ -1,0 +1,9 @@
+name: Shapez Factory Entrance
+description: Unidentified hostiles have taken over the Shapez Production and Assembly Plant in sector 1213G,and command has assigned you to investigate the source of the attack and salvage any resources from the ruined factory. Stay alert, the hostile mechs seem to have evolved and enhanced their weapons suite with resurces from within the factory...
+loadout: basicNucleus
+startingItems: [
+  copper/200
+  lead/300
+  ]
+ conditionWave: 10 //TODO: figure out what conditionWave values mean
+ launchPeriod: 10
