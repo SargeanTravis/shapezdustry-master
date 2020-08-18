@@ -1,4 +1,4 @@
-# Shapezdustry.io
+# Shapezdustry
 SargeanTravis' first Mindustry Mod based off the game Shapez.io by Tobias Springer!
 This story-driven mod adds several new resources, turrets, units and a set of maps to emulate several processes that occur within the Shapez.io gameplay, but while playing Mindustry.
 
