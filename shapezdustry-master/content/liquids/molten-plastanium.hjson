@@ -1,0 +1,6 @@
+name: Molten Plastanium
+description: The product of inputting Plastanium into the Advanced smelter. Used to dye shapez green.
+temperature: 0.8
+viscosity: 0.5
+effect: none
+color: #72b563
