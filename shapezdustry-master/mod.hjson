@@ -1,0 +1,6 @@
+name: "shapezdustry mod"
+displayName: "[white]shapez[darkgray]dustry" //what displays in the mod selection menu
+author: "SargeanTravis"
+description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
+version: "1.0"
+minGameVersion: "104.1"

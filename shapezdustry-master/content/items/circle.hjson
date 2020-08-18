@@ -1,0 +1,6 @@
+type: material
+name: Circle Shape
+description: A Shapez.io circle, but in Mindustry. Can be stored in the hub, fed into select weapon types or crafted into more powerful shapez.
+hardness: 0
+cost: 0
+color: ffffff

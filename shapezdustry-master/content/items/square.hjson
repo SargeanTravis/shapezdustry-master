@@ -1,0 +1,6 @@
+type: material
+name: Square
+description: A simple Shapez.io Square in Mindustry. This resource can be fed into the core or processed for use in better shapez or compatible anti-air devices.
+hardness: 1
+cost: 2
+color: ffffff
